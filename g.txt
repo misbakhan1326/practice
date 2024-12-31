@@ -2,3 +2,4 @@ hello git bash work
 checking to add again
 trying to edit again
 Editing after new branch
+switched to this branch again
