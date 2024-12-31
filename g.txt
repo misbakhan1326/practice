@@ -1,3 +1,4 @@
 hello git bash work
 checking to add again
 trying to edit again
+Editing after new branch
